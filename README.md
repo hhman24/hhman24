@@ -6,6 +6,10 @@
 - 🌱 I’m learning and researching about software and AI
 - 📫 How to reach me: **hhman240602@gmail.com** or **20127102@student.hcmus.edu.vn**
 - ⚡ Check out my portfolio at: 
+- 
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
 
 # 🌐Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054705169321) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hoanghuuminhainz) 
