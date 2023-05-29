@@ -10,15 +10,12 @@
 ## 🌐Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054705169321) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hoanghuuminhainz) 
 
+# 💻Languages (Beginner)
 </p>
-
-<h3 align="left">Languages (Beginner): </h3>
-
 <p align="left"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/>
 </p>
-
 <p>
 
 # 💻Tech Stack
