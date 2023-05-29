@@ -2,6 +2,9 @@
 <h1  align="center">👋 Hi Everyone, my name is An👋</h1>
 <p  align="center"> <img  src="https://komarev.com/ghpvc/?username=huyhoan652002&label=Profile%20views&color=129e00&style=plastic"  alt="hhman24" /> </p>
 
+---
+[![](https://visitcount.itsvg.in/api?id=hhman24&icon=7&color=5)](https://visitcount.itsvg.in)
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054705169321) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hoanghuuminhainz) 
 
@@ -15,8 +18,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=hhman24&icon=7&color=5)](https://visitcount.itsvg.in)
+
 
 
 <!---
