@@ -5,14 +5,9 @@
 - 😄 I also learn online at [CS50](https://cs50.harvard.edu/college/2022/spring/) on [EDX](https://www.edx.org)
 - 🌱 I’m learning and researching about software and AI
 - 📫 How to reach me: **hhman240602@gmail.com** or **20127102@student.hcmus.edu.vn**
-- ⚡ Check out my portfolio at: 
-- 
-
-
+- ⚡ Check out my portfolio at:
 
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
 
 # 🌐Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054705169321) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hoanghuuminhainz) 
