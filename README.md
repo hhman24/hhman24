@@ -7,7 +7,7 @@
 - 📫 How to reach me: **hhman240602@gmail.com** or **20127102@student.hcmus.edu.vn**
 - ⚡ Check out my portfolio at: 
 
-## 🌐Connect with me
+# 🌐Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054705169321) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hoanghuuminhainz) 
 
 # 💻Languages (Beginner)
@@ -33,7 +33,7 @@
 <img src="https://www.pngitem.com/pimgs/m/422-4223360_transparent-sublime-text-icon-hd-png-download.png" , width = 50/>
 </p>
 
-### ✍️Random Dev Quote
+# ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!---
