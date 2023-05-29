@@ -7,9 +7,11 @@
 - 📫 How to reach me: **hhman240602@gmail.com** or **20127102@student.hcmus.edu.vn**
 - ⚡ Check out my portfolio at:
 
-<div style="text-align:center;">
+<p align="center">
   <img alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-</div>
+</p>
+
+
 
 # 🌐Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054705169321) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hoanghuuminhainz) 
