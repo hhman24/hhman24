@@ -5,7 +5,6 @@
 - 😄 I also learn online at [CS50](https://cs50.harvard.edu/college/2022/spring/) on [EDX](https://www.edx.org)
 - 🌱 I’m learning and researching about Cryptography, Security, NLP and AI
 - 📫 How to reach me: **hhman240602@gmail.com** or **20127102@student.hcmus.edu.vn**
-- ⚡ Check out my portfolio at:
 
 <p align="center">
   <img alt="Coder GIF" height="250" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
