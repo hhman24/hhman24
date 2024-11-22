@@ -2,9 +2,8 @@
 <h1  align="center">👋 Hi Everyone, my name is An👋</h1>
 
 - 🔭 I’m a student at [Ho Chi Minh University of Science](hcmus.edu.vn)
-- 😄 I also learn online at [CS50](https://cs50.harvard.edu/college/2022/spring/) on [EDX](https://www.edx.org)
 - 🌱 I’m learning and researching about Cryptography, Security, NLP and AI
-- 📫 How to reach me: **hhman240602@gmail.com** or **20127102@student.hcmus.edu.vn**
+- 📫 How to reach me: **hhman240602@gmail.com**
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
